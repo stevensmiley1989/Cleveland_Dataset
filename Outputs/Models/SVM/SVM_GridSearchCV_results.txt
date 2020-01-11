@@ -1,0 +1,14 @@
+Support Vector Machine (SVM)
+BEST PARAMS: {'C': 0.01, 'coef0': 10.0, 'degree': 3, 'gamma': 0.1, 'kernel': 'linear'}
+
+Olson PARAMS: {'C': [0.01], 'coef0': [10.0], 'degree': [3], 'gamma': [0.1], 'kernel': ['poly']}
+
+Support Vector Machine (SVM) 0.819 (+/-0.13) for {'C': 0.01, 'coef0': 10.0, 'degree': 3, 'gamma': 0.1, 'kernel': 'poly'}
+Support Vector Machine (SVM) 0.823 (+/-0.112) for {'C': 0.01, 'coef0': 10.0, 'degree': 3, 'gamma': 0.1, 'kernel': 'linear'}
+Support Vector Machine (SVM) 0.523 (+/-0.012) for {'C': 0.01, 'coef0': 10.0, 'degree': 3, 'gamma': 0.1, 'kernel': 'rbf'}
+Support Vector Machine (SVM) 0.802 (+/-0.131) for {'C': 1, 'coef0': 10.0, 'degree': 3, 'gamma': 0.1, 'kernel': 'poly'}
+Support Vector Machine (SVM) 0.819 (+/-0.138) for {'C': 1, 'coef0': 10.0, 'degree': 3, 'gamma': 0.1, 'kernel': 'linear'}
+Support Vector Machine (SVM) 0.806 (+/-0.148) for {'C': 1, 'coef0': 10.0, 'degree': 3, 'gamma': 0.1, 'kernel': 'rbf'}
+Support Vector Machine (SVM) 0.764 (+/-0.143) for {'C': 10, 'coef0': 10.0, 'degree': 3, 'gamma': 0.1, 'kernel': 'poly'}
+Support Vector Machine (SVM) 0.823 (+/-0.113) for {'C': 10, 'coef0': 10.0, 'degree': 3, 'gamma': 0.1, 'kernel': 'linear'}
+Support Vector Machine (SVM) 0.802 (+/-0.121) for {'C': 10, 'coef0': 10.0, 'degree': 3, 'gamma': 0.1, 'kernel': 'rbf'}

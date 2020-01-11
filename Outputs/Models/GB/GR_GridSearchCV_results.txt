@@ -1,0 +1,11 @@
+Gradient Boost (GB)
+BEST PARAMS: {'learning_rate': 0.01, 'loss': 'deviance', 'max_depth': 1, 'max_features': 'log2', 'n_estimators': 500}
+
+Olson PARAMS: {'learning_rate': [0.1], 'loss': ['deviance'], 'max_depth': [3], 'max_features': ['log2'], 'n_estimators': [500]}
+
+Gradient Boost (GB) 0.827 (+/-0.123) for {'learning_rate': 0.01, 'loss': 'deviance', 'max_depth': 1, 'max_features': 'log2', 'n_estimators': 500}
+Gradient Boost (GB) 0.81 (+/-0.126) for {'learning_rate': 0.01, 'loss': 'deviance', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 500}
+Gradient Boost (GB) 0.806 (+/-0.135) for {'learning_rate': 0.1, 'loss': 'deviance', 'max_depth': 1, 'max_features': 'log2', 'n_estimators': 500}
+Gradient Boost (GB) 0.789 (+/-0.114) for {'learning_rate': 0.1, 'loss': 'deviance', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 500}
+Gradient Boost (GB) 0.768 (+/-0.181) for {'learning_rate': 1, 'loss': 'deviance', 'max_depth': 1, 'max_features': 'log2', 'n_estimators': 500}
+Gradient Boost (GB) 0.81 (+/-0.132) for {'learning_rate': 1, 'loss': 'deviance', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 500}
