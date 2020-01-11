@@ -20,7 +20,7 @@ Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Cleveland.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/Cleveland_Dataset/blob/master/Cleveland.ipynb) | My Jupyter notebook for Medium. |
+| [Cleveland.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/Cleveland_Dataset/Cleveland.ipynb) | My Jupyter notebook for Medium. |
 
 
 
