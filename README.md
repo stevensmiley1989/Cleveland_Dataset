@@ -24,7 +24,6 @@ Jupyter Notebook(s) written in Python.
 
 
 
-
 ## [2 Inputs](https://github.com/stevensmiley1989/Cleveland_Dataset/tree/master/Inputs)<a class="anchor" id="2"></a>
 Single input file (processed.cleveland.data) contains all of the information for the Cleveland dataset.
 
