@@ -1,9 +1,9 @@
 Random Forest (RF)
-BEST PARAMS: {'criterion': 'entropy', 'max_features': 0.25, 'n_estimators': 1000}
+BEST PARAMS: {'criterion': 'entropy', 'max_features': 0.25, 'n_estimators': 500}
 
 Olson PARAMS: {'criterion': ['entropy'], 'max_features': [0.25], 'n_estimators': [500]}
 
-Random Forest (RF) 0.814 (+/-0.137) for {'criterion': 'entropy', 'max_features': 0.25, 'n_estimators': 500}
-Random Forest (RF) 0.819 (+/-0.144) for {'criterion': 'entropy', 'max_features': 0.25, 'n_estimators': 1000}
-Random Forest (RF) 0.802 (+/-0.145) for {'criterion': 'gini', 'max_features': 0.25, 'n_estimators': 500}
-Random Forest (RF) 0.802 (+/-0.145) for {'criterion': 'gini', 'max_features': 0.25, 'n_estimators': 1000}
+Random Forest (RF) 0.81 (+/-0.156) for {'criterion': 'entropy', 'max_features': 0.25, 'n_estimators': 500}
+Random Forest (RF) 0.806 (+/-0.141) for {'criterion': 'entropy', 'max_features': 0.25, 'n_estimators': 1000}
+Random Forest (RF) 0.797 (+/-0.159) for {'criterion': 'gini', 'max_features': 0.25, 'n_estimators': 500}
+Random Forest (RF) 0.806 (+/-0.154) for {'criterion': 'gini', 'max_features': 0.25, 'n_estimators': 1000}

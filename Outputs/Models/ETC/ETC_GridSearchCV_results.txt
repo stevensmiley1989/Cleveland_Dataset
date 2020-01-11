@@ -3,5 +3,5 @@ BEST PARAMS: {'criterion': 'entropy', 'max_features': 'log2', 'n_estimators': 10
 
 Olson PARAMS: {'criterion': ['entropy'], 'max_features': ['log2'], 'n_estimators': [1000]}
 
-Extra Trees Classifier (ETC) 0.819 (+/-0.127) for {'criterion': 'entropy', 'max_features': 'log2', 'n_estimators': 1000}
-Extra Trees Classifier (ETC) 0.797 (+/-0.136) for {'criterion': 'entropy', 'max_features': 0.25, 'n_estimators': 1000}
+Extra Trees Classifier (ETC) 0.831 (+/-0.119) for {'criterion': 'entropy', 'max_features': 'log2', 'n_estimators': 1000}
+Extra Trees Classifier (ETC) 0.819 (+/-0.149) for {'criterion': 'entropy', 'max_features': 0.25, 'n_estimators': 1000}
