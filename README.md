@@ -1,7 +1,9 @@
 # Cleveland_Dataset
 ## Repository by Steven Smiley
 
-This respository hosts the files I used to analyze and evaluate the Cleveland dataset in Python. 
+This respository hosts the files I used to analyze and evaluate the Cleveland dataset in Python.
+
+** Revision 1 has a couple changes such that the MinMaxScaler() comes after the Test/Train Split.  This is to prevent Data Leakage.  There is no significant change in the results between Revision 0 and 1.  The MLP for Revision 1 ended up having the same Accuracy as Revision 0.  The SVM Accuracy for Revision 1 was not as high as Revision 0.  However, the MLP was tied with SVM for Accuracy in Revision 0.  The MLP ended up with a higher AUC in Revision 1 than Revision 0.  Thus, the MLP wins the battle for the models without data leakage, but the overall accuracy and AUC values are not significantly different.  Excellent diagnositcs in both. 
 
 
 # Table of Contents to Repository 
