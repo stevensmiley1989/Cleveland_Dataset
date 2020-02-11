@@ -1,0 +1,13 @@
+Logistic Regression (LR)
+BEST PARAMS: {'C': 1, 'fit_intercept': True, 'penalty': 'l1'}
+
+Olson PARAMS: {'C': [1.5], 'fit_intercept': [True], 'penalty': ['l1']}
+
+Logistic Regression (LR) 0.523 (+/-0.035) for {'C': 0.001, 'fit_intercept': True, 'penalty': 'l1'}
+Logistic Regression (LR) 0.523 (+/-0.035) for {'C': 0.01, 'fit_intercept': True, 'penalty': 'l1'}
+Logistic Regression (LR) 0.823 (+/-0.133) for {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1'}
+Logistic Regression (LR) 0.836 (+/-0.126) for {'C': 1, 'fit_intercept': True, 'penalty': 'l1'}
+Logistic Regression (LR) 0.827 (+/-0.133) for {'C': 1.5, 'fit_intercept': True, 'penalty': 'l1'}
+Logistic Regression (LR) 0.835 (+/-0.148) for {'C': 10, 'fit_intercept': True, 'penalty': 'l1'}
+Logistic Regression (LR) 0.835 (+/-0.144) for {'C': 100, 'fit_intercept': True, 'penalty': 'l1'}
+Logistic Regression (LR) 0.835 (+/-0.138) for {'C': 1000, 'fit_intercept': True, 'penalty': 'l1'}
